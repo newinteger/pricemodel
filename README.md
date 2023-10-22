@@ -22,7 +22,7 @@ The code models the costs associated with manipulating the consensus process. As
 
 ### Code Overview
 
-The code is structured as follows:
+The code in `model.ipynb` is structured as follows:
 
 - **testcalc**: This function calculates the total cost based on an initial token price and a required token amount. It simulates the process of purchasing tokens, considering the available liquidity and the increasing token price.
 
